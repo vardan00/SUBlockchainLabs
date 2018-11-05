@@ -1,4 +1,4 @@
-# Lab 2.3.2: Escrow Services
+# Lab 4.3: Escrow Services
 
 
 In this lab, you are given the initial state that a custom Blockchain network of several miners is hosted on an on-campus machine. The Blockchain machine also runs a daemon that periodically instructs some miner to conduct transactions with other miners.
